@@ -55,38 +55,6 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       <td><code>(None)</code></td>
       <td><a href="https://apps.apple.com/us/app/macos-monterey/id1576738294"><code>(Latest)</code></a></td>
     </tr>
-  <!-- macOS 11 -->
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/bigsur.png"
-          width=25
-          hspace=2
-          align="top"
-        />
-        Big Sur
-      </td>
-      <td style="text-align: center;">✅</td>
-      <td>Fully Supported.</td>
-      <td><code>(None)</code></td>
-      <td><a href="https://apps.apple.com/us/app/macos-big-sur/id1526878132"><code>(Latest)</code></a></td>
-    </tr>
-<!-- macOS 10.15 -->
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/catalina.png"
-          width=25
-          hspace=2
-          align="top"
-        />
-        Catalina
-      </td>
-      <td style="text-align: center;">✅</td>
-      <td>Fully Supported.</td>
-      <td><a href="https://support.apple.com/kb/DL2051?locale=en_US"><code>10.15.7 (19H1419)</code></a></td>
-      <td><a href="https://apps.apple.com/sg/app/macos-catalina/id1466841314"><code>(Latest)</code></a></td>
-    </tr>
 </table>
 
 
