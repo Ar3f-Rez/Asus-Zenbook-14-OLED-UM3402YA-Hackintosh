@@ -132,7 +132,7 @@ Hackintosh
   <!-- Ports -->
     <tr>
       <td>Ports</td>
-      <td>Fully supported (USB Mapped)</td>
+      <td>USB Mapped and ports are working fine</td>
       <td style="text-align: center;">✅</td>
       <td>Fully supported.</td>
     </tr>
