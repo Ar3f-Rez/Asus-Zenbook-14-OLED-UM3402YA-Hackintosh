@@ -36,8 +36,8 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       </td>
       <td style="text-align: center;">✅</td>
       <td>Coming Soon.</td>
-      <td><code>(None)</code></td>
-      <td><a href="https://apps.apple.com/us/app/macos-monterey/id1576738294"><code>(Latest)</code></a></td>
+      <td><code>Coming Soon</code></td>
+      <td><a href="https://apps.apple.com/us/app/macos-monterey/id1576738294"><code>Coming Soon)</code></a></td>
     </tr>
   <!-- macOS 13 -->
     <tr>
