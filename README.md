@@ -58,7 +58,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       <td>CPU</td>
       <td>• Ryzen 7 5825U</td>
       <td style="text-align: center;">✅</td>
-      <td>AMD Vanilla OpenCore.</td>
+      <td>Supported with the help of AMD Vanilla OpenCore.</td>
     </tr>
   <!-- Graphics -->
     <tr>
