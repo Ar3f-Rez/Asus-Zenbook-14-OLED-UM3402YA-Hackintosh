@@ -132,7 +132,7 @@ Hackintosh
   <!-- Ports -->
     <tr>
       <td>Ports</td>
-      <td>(Left)<br>• 1x 4.5mm DC-in (19V, 3.42A)<br>• 1x HDMI 1.4<br>• 1x USB 3.1 Gen 2 Type-A<br>• 1x USB 3.1 Gen 2 Type-C<br>(Right)<br>• 1x USB 3.1 Gen 1 Type-A<br>• 1x 3.5 mm Audio combo jack<br>• 1x MicroSD card reader</td>
+      <td>Fully supported (USB Mapped)</td>
       <td style="text-align: center;">✅</td>
       <td>Fully supported.</td>
     </tr>
