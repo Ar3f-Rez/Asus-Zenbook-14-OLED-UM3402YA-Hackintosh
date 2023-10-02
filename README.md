@@ -27,12 +27,12 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
     <tr>
       <td>
         <img
-          src="[https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/monterey.png](https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/sonoma_logo.png)"
+          src="https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/sonoma_logo.png?raw=true"
           width=22
           hspace=2
           align="top"
         />
-        Monterey
+        Sonoma
       </td>
       <td style="text-align: center;">✅</td>
       <td>Coming Soon.</td>
