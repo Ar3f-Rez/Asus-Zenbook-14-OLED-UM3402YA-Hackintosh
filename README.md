@@ -13,7 +13,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
 </p>
 
 
- macOS Version Support:
+## macOS Version Support:
 <table>
   <thead>
     <tr>
