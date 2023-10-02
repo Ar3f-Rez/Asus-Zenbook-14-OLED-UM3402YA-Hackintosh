@@ -34,7 +34,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
         />
         Sonoma
       </td>
-      <td style="text-align: center;">✅</td>
+      <td style="text-align: center;">🚧</td>
       <td>Coming Soon.</td>
       <td><code>Coming Soon</code></td>
       <td><code>Coming Soon</code></a></td>
