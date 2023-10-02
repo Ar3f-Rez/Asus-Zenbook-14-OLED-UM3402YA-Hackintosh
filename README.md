@@ -75,9 +75,6 @@ Hackintosh
       <td style="text-align: center;">✅</td>
       <td>Fully supported (GPIO pinned with multi-touch gestures)</td>
     </tr>
-    <tr>
-      <td style="text-align: center;">✅</td>
-    </tr>
   <!-- Audio -->
     <tr>
       <td rowspan=2>Audio<br>(Realtek ALC294)</td>
