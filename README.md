@@ -69,7 +69,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
 
 
 ### Hardware Features:
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Component</th>
@@ -170,7 +170,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
 </table>
 
 ### Software Features:
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Type</th>
