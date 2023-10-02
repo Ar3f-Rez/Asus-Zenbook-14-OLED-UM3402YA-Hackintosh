@@ -57,7 +57,12 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
     </tr>
 </table>
 
-
+<img
+      src="https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/screen.png?raw=true"
+      alt="UM3402"
+      class="center"
+      width=500px
+    >
 
 ### Hardware Features:
 <table>
