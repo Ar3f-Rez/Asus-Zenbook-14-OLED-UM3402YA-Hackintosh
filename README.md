@@ -102,7 +102,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       <td rowspan=1>Displays</td>
       <td>14" Primary Display<br>(2.8K OLED display @ 90 Hz)</td>
       <td style="text-align: center;">✅</td>
-      <td>Fully supported (with backlight control).</td>
+      <td>Partially supported (backlight control needs Lunar App).</td>
     </tr>
   <!-- Interfaces -->
     <tr>
