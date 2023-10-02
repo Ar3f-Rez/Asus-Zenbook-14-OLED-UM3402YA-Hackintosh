@@ -2,7 +2,7 @@
 
 Hackintosh
 
-## macOS Version Support:
+# macOS Version Support:
 <table>
   <thead>
     <tr>
