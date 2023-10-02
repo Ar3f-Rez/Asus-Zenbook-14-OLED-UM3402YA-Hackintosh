@@ -42,7 +42,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
     </tr>
 
 
-## Hardware Features:
+### Hardware Features:
 
 <table>
   <thead>
@@ -143,4 +143,71 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
     </tr>
   </tbody>
 </table>
+
+### Software Features:
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Feature</th>
+      <th colspan=2>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+  <!-- iServices -->
+    <tr>
+      <td colspan=2>iServices (iCloud)</td>
+      <td style="text-align: center;">✅</td>
+      <td>Fully supported.</td>
+    </tr>
+  <!-- Continuity -->
+    <tr>
+      <td rowspan=6>Continuity</td>
+      <td>Airplay to Mac</td>
+      <td style="text-align: center;">✅</td>
+      <td>Supported.</td>
+    <tr>
+      <td>Sidecar</td>
+      <td style="text-align: center;">✅</td>
+      <td>Supported.</td>
+    <tr>
+      <td>Handoff</td>
+      <td style="text-align: center;">✅</td>
+      <td>Supported.</td>
+    </tr>
+    <tr>
+      <td>Continuity Camera</td>
+      <td style="text-align: center;">🚧</td>
+      <td>Untested.</td>
+    </tr>
+    <tr>
+      <td>Universal Clipboard</td>
+      <td style="text-align: center;">✅</td>
+      <td>Supported.</td>
+    </tr>
+    <tr>
+      <td>Universal Control</td>
+      <td style="text-align: center;">✅</td>
+      <td>Supported.</td>
+    </tr>
+  <!-- Sleep + Wake -->
+    <tr>
+      <td rowspan=2>Sleep / Wake</td>
+      <td>Sleep</td>
+      <td style="text-align: center;">🚧</td>
+      <td>Work in progress</td>
+    </tr>
+    <tr>
+      <td>Hibernation</td>
+      <td style="text-align: center;">🚧</td>
+      <td>Work in progress.</td>
+    </tr>
+  <!-- Battery meter -->
+    <tr>
+      <td colspan=2>Battery Indication</td>
+      <td style="text-align: center;">✅</td>
+      <td>Fully supported.</td>
+    </tr>
+</table>
+
   
