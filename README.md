@@ -102,8 +102,8 @@ Hackintosh
     </tr>
     <tr>
       <td>Built-in microphone</td>
-      <td style="text-align: center;">✅</td>
-      <td>Fully supported.</td>
+      <td style="text-align: center;">🚧</td>
+      <td>Work in Progress</td>
     </tr>
   <!-- Camera -->
     <tr>
