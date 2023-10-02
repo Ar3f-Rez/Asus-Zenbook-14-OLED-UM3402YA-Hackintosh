@@ -65,7 +65,7 @@ Hackintosh
     </tr>
   <!-- Interfaces -->
     <tr>
-      <td rowspan=6>Interfaces</td>
+      <td rowspan=3>Interfaces</td>
       <td>Built-in Keyboard</td>
       <td style="text-align: center;">✅</td>
       <td>Fully supported (with media keys and backlight control).</td>
@@ -76,22 +76,7 @@ Hackintosh
       <td>Fully supported (GPIO pinned with multi-touch gestures)</td>
     </tr>
     <tr>
-      <td>(Physical) Trackpad Buttons</td>
-      <td style="text-align: center;">🚧</td>
-      <td>Work in progress (VoodooI2C issue; incorrect button map).</td>
-    </tr>
-    <tr>
-      <td rowspan=2>Touchscreen<br>(Primary Display)<br>(Screenpad Plus Display)</td>
       <td style="text-align: center;">✅</td>
-      <td rowspan=2>Fully supported (GPIO pinned with multi-touch gestures)</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">✅</td>
-    </tr>
-    <tr>
-      <td>Capacitive Stylus</td>
-      <td style="text-align: center;">🚧</td>
-      <td>Work in progress (works without pressure data).</td>
     </tr>
   <!-- Audio -->
     <tr>
