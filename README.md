@@ -47,7 +47,7 @@ Hackintosh
       <td>CPU</td>
       <td>• Ryzen 7 5825U</td>
       <td style="text-align: center;">✅</td>
-      <td>Natively supported (since macOS Ventura).</td>
+      <td>AMD Vanilla OpenCore.</td>
     </tr>
   <!-- Graphics -->
     <tr>
