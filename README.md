@@ -65,7 +65,7 @@ Hackintosh
     </tr>
   <!-- Interfaces -->
     <tr>
-      <td rowspan=3>Interfaces</td>
+      <td rowspan=2>Interfaces</td>
       <td>Built-in Keyboard</td>
       <td style="text-align: center;">✅</td>
       <td>Fully supported (with media keys and backlight control).</td>
