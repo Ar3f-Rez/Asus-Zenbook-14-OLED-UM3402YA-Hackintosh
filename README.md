@@ -25,7 +25,7 @@ Hackintosh
         Ventura
       </td>
       <td style="text-align: center;">✅</td>
-      <td>Fully Supported.</td>
+      <td>Work in Progress.</td>
       <td><code>(None)</code></td>
       <td><a href="https://apps.apple.com/us/app/macos-ventura/id1638787999"><code>(Latest)</code></a></td>
     </tr>
