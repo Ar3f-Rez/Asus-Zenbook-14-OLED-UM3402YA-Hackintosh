@@ -9,7 +9,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       width=500px
     >
   <br>
-  A <b>Hackintosh</b> project for the <b>ASUS ZenBook 14" OLED</b> built on top of the <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> bootloader and <a href="https://github.com/Qonfused/OCE-Build">OCE-Build</a> build manager.
+  A <b>Hackintosh</b> project for the <b>ASUS ZenBook 14" OLED</b> built on top of the <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> bootloader
 </p>
 
 Hackintosh
