@@ -3,7 +3,7 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
 <br>
 <p align="center">
   <img
-      src="https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/screen.png" src="https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/71LuFzCwB+L._AC_SL1500_.jpg?raw=true"
+      src="https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/71LuFzCwB+L._AC_SL1500_.jpg?raw=true"
       alt="UM3402"
       class="center"
       width=500px
