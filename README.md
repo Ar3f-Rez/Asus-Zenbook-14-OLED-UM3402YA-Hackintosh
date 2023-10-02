@@ -12,15 +12,6 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
   A <b>Hackintosh</b> project for the <b>ASUS ZenBook 14" OLED</b> built on top of the <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> bootloader
 </p>
 
-### macOS Version Support:
-<h1 align="center">
-  center aligned text
-</h1>
-<!--
-<p align="center">
-  ### macOS Version Support:
-</p>
--->
 
 <table align="center">
   <thead>
@@ -76,8 +67,10 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
   <br>
 </p>
 
+<h1 align="center">
+  Hardware Features:
+</h1>
 
-### Hardware Features:
 <table align="center">
   <thead>
     <tr>
@@ -178,7 +171,10 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
   </tbody>
 </table>
 
-### Software Features:
+<h1 align="center">
+  Software Features:
+</h1>
+
 <table align="center">
   <thead>
     <tr>
