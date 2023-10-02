@@ -32,6 +32,7 @@ Hackintosh
 
 
 ### Hardware Features:
+
 <table>
   <thead>
     <tr>
