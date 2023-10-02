@@ -51,14 +51,14 @@ Hackintosh
     </tr>
   <!-- Graphics -->
     <tr>
-      <td rowspan=2>Graphics</td>
+      <td rowspan=1>Graphics</td>
       <td>AMD Radeon RX Vega 8</td>
       <td style="text-align: center;">✅</td>
       <td>Full acceleration (thanks to NootedRed).</td>
     </tr>
   <!-- Displays -->
     <tr>
-      <td rowspan=2>Displays</td>
+      <td rowspan=1>Displays</td>
       <td>14" Primary Display<br>(2.8K OLED display @ 90 Hz)</td>
       <td style="text-align: center;">✅</td>
       <td>Fully supported (with backlight control).</td>
