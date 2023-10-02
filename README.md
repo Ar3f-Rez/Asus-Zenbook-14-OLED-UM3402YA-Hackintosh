@@ -31,7 +31,7 @@ Hackintosh
     </tr>
 
 
-### Hardware Features:
+## Hardware Features:
 
 <table>
   <thead>
