@@ -23,6 +23,22 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
     </tr>
   </thead>
   <tbody>
+  <!-- macOS 14 -->
+    <tr>
+      <td>
+        <img
+          src="[https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/monterey.png](https://github.com/Ar3f-Rez/Asus-Zenbook-14-OLED-UM3402YA-Hackintosh/blob/main/src/sonoma_logo.png)"
+          width=22
+          hspace=2
+          align="top"
+        />
+        Monterey
+      </td>
+      <td style="text-align: center;">✅</td>
+      <td>Coming Soon.</td>
+      <td><code>(None)</code></td>
+      <td><a href="https://apps.apple.com/us/app/macos-monterey/id1576738294"><code>(Latest)</code></a></td>
+    </tr>
   <!-- macOS 13 -->
     <tr>
       <td>
@@ -38,22 +54,6 @@ Asus-Zenbook-14-OLED-UM3402YA-Hackintosh
       <td>Fully Supported.</td>
       <td><code>(None)</code></td>
       <td><a href="https://apps.apple.com/us/app/macos-ventura/id1638787999"><code>(Latest)</code></a></td>
-    </tr>
-  <!-- macOS 12 -->
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/monterey.png"
-          width=22
-          hspace=2
-          align="top"
-        />
-        Monterey
-      </td>
-      <td style="text-align: center;">✅</td>
-      <td>Fully Supported.</td>
-      <td><code>(None)</code></td>
-      <td><a href="https://apps.apple.com/us/app/macos-monterey/id1576738294"><code>(Latest)</code></a></td>
     </tr>
 </table>
 
