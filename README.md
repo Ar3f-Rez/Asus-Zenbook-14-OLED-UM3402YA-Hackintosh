@@ -63,11 +63,6 @@ Hackintosh
       <td style="text-align: center;">✅</td>
       <td>Fully supported (with backlight control).</td>
     </tr>
-    <tr>
-      <td>12.6" Screenpad Plus Display<br>(IPS, 1920x515 @ 60 Hz)</td>
-      <td style="text-align: center;">🚧</td>
-      <td>Work in progress (with backlight control).</td>
-    </tr>
   <!-- Interfaces -->
     <tr>
       <td rowspan=6>Interfaces</td>
@@ -102,8 +97,8 @@ Hackintosh
     <tr>
       <td rowspan=2>Audio<br>(Realtek ALC294)</td>
       <td>Built-in speakers</td>
-      <td style="text-align: center;">✅</td>
-      <td>Fully supported (with volume control).</td>
+      <td style="text-align: center;">🚧</td>
+      <td>Work in Progress.</td>
     </tr>
     <tr>
       <td>Built-in microphone</td>
@@ -120,7 +115,7 @@ Hackintosh
   <!-- Wi-Fi + Bluetooth -->
     <tr>
       <td>Wi-Fi</td>
-      <td rowspan=2>Intel AX201<br>(Wi-Fi 6 + Bluetooth 5.0)</td>
+      <td rowspan=2>(Upgraded)Intel AX211<br>(Wi-Fi 6 + Bluetooth 5.0)</td>
       <td rowspan=2 style="text-align: center;">✅</td>
       <td rowspan=2>Fully supported (with limited Continuity support).</td>
     </tr>
