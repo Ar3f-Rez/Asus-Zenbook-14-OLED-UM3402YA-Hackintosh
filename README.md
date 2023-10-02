@@ -109,8 +109,8 @@ Hackintosh
     <tr>
       <td>Camera</td>
       <td>Windows Hello HD Camera</td>
-      <td style="text-align: center;">🚧</td>
-      <td>Work in progress.</td>
+      <td style="text-align: center;">✅</td>
+      <td>Fully supported.</td>
     </tr>
   <!-- Wi-Fi + Bluetooth -->
     <tr>
